@@ -134,3 +134,4 @@
 [0124/161738.751:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\cpe\AppData\Local\Temp\scoped_dir8596_1643322822\Crashpad\attachments\d8da46e8-39b3-4702-bac0-bdccef47684b: The system cannot find the path specified. (0x3)
 [0124/174002.187:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\cpe\AppData\Local\Temp\scoped_dir8284_920852149\Crashpad\attachments\1c1b99ad-3404-4356-9ba9-32e5d70d8eed: The system cannot find the path specified. (0x3)
 [0124/200609.638:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\cpe\AppData\Local\Temp\scoped_dir8484_342556430\Crashpad\attachments\8be718d5-1133-4d23-861b-3c689f4d99d6: The system cannot find the path specified. (0x3)
+[0126/104819.851:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)

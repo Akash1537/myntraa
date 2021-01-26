@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="26420" started-at="2021-01-25T10:15:16Z" finished-at="2021-01-25T10:15:43Z">
+  <suite name="Default suite" duration-ms="78182" started-at="2021-01-26T05:08:17Z" finished-at="2021-01-26T05:09:35Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="26420" started-at="2021-01-25T10:15:16Z" finished-at="2021-01-25T10:15:43Z">
+    <test name="Default test" duration-ms="78182" started-at="2021-01-26T05:08:17Z" finished-at="2021-01-26T05:09:35Z">
       <class name="shoppinginmyntra">
-        <test-method status="PASS" signature="myntralogin()[pri:0, instance:shoppinginmyntra@d2e7d9]" name="myntralogin" duration-ms="26311" started-at="2021-01-25T15:45:16Z" finished-at="2021-01-25T15:45:43Z">
+        <test-method status="PASS" signature="myntralogin()[pri:0, instance:shoppinginmyntra@d2e7d9]" name="myntralogin" duration-ms="78135" started-at="2021-01-26T10:38:17Z" finished-at="2021-01-26T10:39:35Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- myntralogin -->
